@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatWithSpeech", "ChatWithSpeech\ChatWithSpeech.csproj", "{FE9DD75D-B033-426E-A932-1F3E7A43E317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE9DD75D-B033-426E-A932-1F3E7A43E317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9DD75D-B033-426E-A932-1F3E7A43E317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9DD75D-B033-426E-A932-1F3E7A43E317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9DD75D-B033-426E-A932-1F3E7A43E317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF3188E-96BD-4862-AACC-3061486CBF5A}
+	EndGlobalSection
+EndGlobal
